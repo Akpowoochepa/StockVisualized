@@ -42,4 +42,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-This project was built using Alpha Vantage API. Special thanks to everyone who supported the development and made this project possible. Thank you to Professor Kristofferson Culmer for his guidance, support, and encouragement.
+This project was built using Alpha Vantage API. Special thanks to everyone in my group, who supported the development and made this project possible. Thank you to Professor Kristofferson Culmer for his guidance, support, and encouragement.
